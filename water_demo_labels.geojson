@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "country": "Albania" }, "geometry": { "type": "Point", "coordinates": [ 19.84023201061472, 43.276531575209148 ] } },
+{ "type": "Feature", "properties": { "country": "Chile_Whole" }, "geometry": { "type": "Point", "coordinates": [ -69.380494910425782, -38.000543268554758 ] } },
+{ "type": "Feature", "properties": { "country": "Iraq" }, "geometry": { "type": "Point", "coordinates": [ 37.400751160139684, 38.977399105658911 ] } },
+{ "type": "Feature", "properties": { "country": "South_Korea" }, "geometry": { "type": "Point", "coordinates": [ 128.160208569696891, 42.356008314803113 ] } },
+{ "type": "Feature", "properties": { "country": "Taiwan" }, "geometry": { "type": "Point", "coordinates": [ 119.225006365297332, 28.989424463920088 ] } },
+{ "type": "Feature", "properties": { "country": "Uruguay" }, "geometry": { "type": "Point", "coordinates": [ -53.789473899224731, -29.916524332988978 ] } }
+]
+}
